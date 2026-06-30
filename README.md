@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-leuchten-deiner-augen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Das Leuchten deiner Augen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-leuchten-deiner-augen/) |
+| **Get License** | [Music Rights & Licensing for Das Leuchten deiner Augen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-leuchten-deiner-augen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Stadt ist laut, doch ich seh' nur das Leuchten deiner Augen
+> Bin so lost in deinem Blick, ich kann es kaum noch glauben
+> Baby, slide in den Benz, wir lassen alles hinter uns
+> Spürst du die Vibes in der Luft? Die Nacht gehört nur uns
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
